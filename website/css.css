@@ -1,0 +1,32 @@
+body{
+    background-color: #146b3a;
+    font-family: sans-serif;
+    a{
+        color: #f9b449;
+        font-size: 38px;
+    }
+    h1{ 
+        font-size: 100px;
+        color: #ea4630;
+    }
+    h2{
+        font-size: 60px;
+        color: #bb2528
+    }
+    ul{
+        font-size: 38px;
+        color: #f8b229
+    }
+    ol{
+        font-size: 38px;
+        color: #f8b229
+    }
+    p{
+        font-size: 38px;
+        color: #f8b229
+    }
+    img{
+        width: 400px;
+        height: 300px
+    }
+}
